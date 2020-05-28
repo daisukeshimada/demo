@@ -1,4 +1,4 @@
-# Demo Project EADME
+# Demo Project README
 
 This is a demo project. This file is written in markdown format.
 ##  subtitle
